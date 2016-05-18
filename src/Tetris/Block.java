@@ -4,7 +4,6 @@ import java.awt.*;
 public class Block {
     private Image image;
     public Block (){
-        initBlock();
     }
     private void initBlock(){
         ImageIcon i = new ImageIcon("C:\\Users\\APCS\\Downloads\\block.png");
